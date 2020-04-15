@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  CpA
-//
-//  Created by 吴文杰 on 13.04.20.
-//  Copyright © 2020 吴文杰. All rights reserved.
-//
-
 #include <iostream>
 #include <fstream>
 #include <vector>
